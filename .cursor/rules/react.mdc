@@ -1,0 +1,7 @@
+---
+globs: *.tsx,src/components/**/*.tsx
+alwaysApply: false
+---
+
+All react component should be typescript.
+They should be functional components.
